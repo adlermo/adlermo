@@ -43,7 +43,7 @@ Want to talk tech, faith, automation for a future life closer to nature,
 or even about my chaotic Kenshi squad?
 
 **📧** adlerorteney@gmail.com  
-**🌐** https://github.com/AdlerOrteney
+**🌐** https://github.com/adlermo
 
 ---
 
@@ -95,7 +95,7 @@ Se quiser trocar ideia sobre tech, fé, automação de vida no campo,
 ou só perguntar da minha squad doida em Kenshi:
 
 **📧** adlerorteney@gmail.com  
-**🌐** https://github.com/AdlerOrteney
+**🌐** https://github.com/adlermo
 
 ---
 
