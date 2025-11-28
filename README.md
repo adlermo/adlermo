@@ -1,4 +1,4 @@
-# 🌍 Adler Orteney — Profile README
+# Adler M Orteney — Profile
 
 <!-- English Section -->
 <details open>
