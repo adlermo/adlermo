@@ -34,7 +34,7 @@ If you’re curious about the gospel that guides my steps:
 ---
 
 ## 🚀 Featured Projects  
-*(Space reserved for my biggest and coolest projects. Coming soon.)*
+ - (Handcrafted Haven)[https://adlermo-wdd430-handcrafted-haven.vercel.app]
 
 <br>
 
@@ -86,7 +86,7 @@ Se quiser conhecer o evangelho que guia meu caminho:
 ---
 
 ## 🚀 Projetos Principais  
-*(Espaço reservado para eu linkar os grandões. Em breve.)*
+ - (Handcrafted Haven)[https://adlermo-wdd430-handcrafted-haven.vercel.app]
 
 <br>
 
